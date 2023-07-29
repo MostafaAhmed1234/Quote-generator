@@ -1,0 +1,12 @@
+button:not(:disabled) {
+  cursor: pointer;
+}
+
+body {
+  font-family: Impact;
+  font-size: 80px;
+}
+
+button:hover {
+  background-color: green !important;
+}
